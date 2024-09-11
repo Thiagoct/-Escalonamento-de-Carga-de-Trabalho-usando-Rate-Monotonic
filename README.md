@@ -105,3 +105,6 @@ A função main realiza os seguintes passos:
 
 
 6. Limpeza: Libera a memória alocada e finaliza o programa.
+
+# Link para vídeo no youtube
+https://youtu.be/SbpXzhbmzQc
